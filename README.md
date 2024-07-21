@@ -1,5 +1,5 @@
----
-abstract: |
+## Title: Women's Fashion Recommender System
+Abstract: 
   This project aims to revolutionize women's fashion by integrating
   cutting-edge technologies like LightFM, deep learning-based models,
   and stable diffusion-based models to enable virtual try-on
@@ -17,13 +17,9 @@ abstract: |
   user-centric design approach, we aim to redefine the fashion shopping
   experience, empowering users to effortlessly discover and embrace
   their unique sense of style.
-author:
-- 
-- 
-- 
-- 
-title: Women's Fashion Recommender System
----
+
+
+
 
 # Introduction
 
