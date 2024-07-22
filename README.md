@@ -366,15 +366,15 @@ image and took the top 5 recommendations.
 This is for an existing user, *i.e.*, someone who has already rented at
 least one item from the store.
 
-![Existing User's Image](t1.jpg){#fig:User width="43.25%"}
+![Existing User's Image](images/t1.jpg){#fig:User width="43.25%"}
 
 <figure id="fig:Recommendations2">
 <figure id="fig:Recommendations1">
-<img src="r1.jpg" />
+<img src="images/r1.jpg" />
 <figcaption>Recommendation 1 for existing user </figcaption>
 </figure>
 <figure id="fig:Recommendations2">
-<img src="r2.jpg" />
+<img src="images/r2.jpg" />
 <figcaption>Recommendation 2 for existing user</figcaption>
 </figure>
 <figcaption>Recommendation 2 for existing user</figcaption>
@@ -382,15 +382,15 @@ least one item from the store.
 
 <figure id="fig:AllRecommendations">
 <figure id="fig:Recommendations3">
-<img src="r3.jpg" />
+<img src="images/r3.jpg" />
 <figcaption>Recommendation 3 for existing user</figcaption>
 </figure>
 <figure id="fig:Recommendations4">
-<img src="r4.jpg" />
+<img src="images/r4.jpg" />
 <figcaption>Recommendation 4 for existing user</figcaption>
 </figure>
 <figure id="fig:Recommendations5">
-<img src="r5.jpg" />
+<img src="images/r5.jpg" />
 <figcaption>Recommendation 5 for existing user</figcaption>
 </figure>
 <figcaption>Top 5 Recommendations for Existing User</figcaption>
@@ -403,19 +403,19 @@ latent embeddings we get from the penultimate layer form the neural
 network that we trained on the image and text embeddings and give the
 recommendations to the user, along with the try-on.
 
-![New User's Image](new1.jpg){#fig:New User width="37.5%"}
+![New User's Image](images/new1.jpg){#fig:New User width="37.5%"}
 
 <figure id="fig:AllRecommendations">
 <figure id="fig:Recommendations1">
-<img src="Picture1.png" />
+<img src="images/Picture1.png" />
 <figcaption>Recommendation 1 for new user </figcaption>
 </figure>
 <figure id="fig:Recommendations2">
-<img src="Picture2.png" />
+<img src="images/Picture2.png" />
 <figcaption>Recommendation 2 for new user</figcaption>
 </figure>
 <figure id="fig:Recommendations3">
-<img src="Picture3.png" />
+<img src="images/Picture3.png" />
 <figcaption>Recommendation 3 for new user</figcaption>
 </figure>
 <figcaption>Top 3 Recommendations and Try-ons</figcaption>
